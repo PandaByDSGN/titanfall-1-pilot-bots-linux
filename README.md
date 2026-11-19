@@ -4,6 +4,10 @@ These notes cover the setup behind my Titanfall 1 pilot-bot video. I tested frie
 
 **Status:** I reproduced the exact engine and CORE source changes from pinned public downloads. A clean Windows x64 build of those sources passed the one-bot Linux smoke test below. The new public-input build recipe has not yet been run end to end. Stock R1Delta alone won't give you the setup shown in the video.
 
+[![Watch the Titanfall 1 pilot-bot gameplay demo](https://i.ytimg.com/vi/xJE6C8UFrIc/hqdefault.jpg)](https://youtube.com/live/xJE6C8UFrIc)
+
+[Watch the gameplay demo on YouTube](https://youtube.com/live/xJE6C8UFrIc)
+
 ## What the demo used
 
 - A legitimately obtained PC copy of **Titanfall (2014)**. Start with a separate install or copy so that the original and its saves stay untouched.
