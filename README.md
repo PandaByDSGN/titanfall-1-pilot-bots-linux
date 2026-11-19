@@ -2,7 +2,7 @@
 
 These notes cover the setup behind my Titanfall 1 pilot-bot video. I tested friendly and enemy pilot teams in private Attrition matches across multiple maps. The video shows that larger-team setup. The smoke test below uses one bot on purpose so it's easy to see whether it spawns and fights.
 
-**Status:** I reproduced the exact engine and CORE source changes from pinned public downloads. A clean Windows x64 build of those sources passed the one-bot Linux smoke test below. The new public-input build recipe has not yet been run end to end. Stock R1Delta alone won't give you the setup shown in the video.
+**Status:** The guide’s pinned public sources reproduced the exact engine and CORE changes. I built the Windows x64 patch from scratch with the checked-in recipe, staged it in a fresh isolated Linux install, and verified that a pilot bot spawned and moved in a 90-second private Attrition test. Stock R1Delta alone won't give you the setup shown in the video.
 
 [![Watch the Titanfall 1 pilot-bot gameplay demo](https://i.ytimg.com/vi/xJE6C8UFrIc/hqdefault.jpg)](https://youtube.com/live/xJE6C8UFrIc)
 
@@ -31,12 +31,12 @@ Follow the [Linux runtime steps](BUILD.md#4-linux-runtime-used-in-the-verified-t
 4. Apply the settings, start the match, and finish selecting your loadout.
 5. Check for the second pilot slot on the scoreboard, then confirm the bot spawns and fights.
 
-The patched build passed this small test in two isolated Linux installs, including a 90-second run with the freshly rebuilt engine. That run loaded one pilot bot, the bot moved and fought, and it registered two pilot kills. This fresh-install check covered one bot on Angel City. The larger friendly and enemy teams were verified separately in my private Attrition matches across multiple maps.
+The end-to-end check covered one pilot bot on Angel City: it spawned, navigated, and took movement inputs with no script errors. No kills were recorded in this run; an earlier isolated run recorded two bot kills. The larger friendly and enemy teams were verified separately in my private Attrition matches across multiple maps.
 
 ## What still needs verification
 
 - Play the private-match test on native Windows.
-- Run the newly documented public-input recipe through Windows compilation and a fresh Linux runtime test with independently obtained owned game files.
+- Repeat the fresh-prefix check on a second Linux machine with a separately installed owned game copy.
 - Verify Steam Deck / SteamOS and alternative Linux launch routes.
 - Test friendly and enemy pilot teams in modes beyond Attrition.
 - See [source provenance and notices](NOTICES.md). This repository does not include game files, compiled binaries, upstream CORE scripts, third-party runtime DLLs, or Wine prefixes.
