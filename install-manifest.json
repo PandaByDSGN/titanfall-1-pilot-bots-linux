@@ -1,0 +1,296 @@
+{
+  "core": [
+    {
+      "path": "CHANGELOG.md",
+      "sha256": "a24e226f55be1f4fe4e282c3af378c221e69e487c3892419553b0295cce90ab5",
+      "stock_sha256": null
+    },
+    {
+      "path": "resource/delta_english.txt",
+      "encoding": "utf-16",
+      "sha256": "d326d25115df389ad659a396c22ac251d21da46bf368b482055c28115c8c1915",
+      "stock_sha256": "227aacca34374ce205c38291a59a51dbd94cf1ccd98f14b3059a0480a0624361"
+    },
+    {
+      "path": "resource/delta_french.txt",
+      "encoding": "utf-16",
+      "sha256": "e3406cb6726d6f2c8e8c8da80500b8130b061220642c177a462b8df9a01e21e4",
+      "stock_sha256": "af4306baf491cdb3a2fdda8af8e970c56280f63dc7c7ecc952c1767f19b776b1"
+    },
+    {
+      "path": "resource/delta_german.txt",
+      "encoding": "utf-16",
+      "sha256": "bf6ddb7c093e3585b9ae138c257ee1b0e998adc47062bf101cdb2abd3c599513",
+      "stock_sha256": "75fa708caed524550d334ecbbca7d6e8455a3f454e32731a6bffb1601c6c408f"
+    },
+    {
+      "path": "resource/delta_italian.txt",
+      "encoding": "utf-16",
+      "sha256": "32e5d4867ac08a6449b6504dfa594416e5472759be035f489970c9a63c96a5ee",
+      "stock_sha256": "f837ad8dde15e0df0f5515feb2665e4b44a46cf347d29322ba92acf4474fbab5"
+    },
+    {
+      "path": "resource/delta_japanese.txt",
+      "encoding": "utf-16",
+      "sha256": "7d5a4a735f1399a4effe8c79a828b05e35d795bd9749bfe3074ecaac46e5bb55",
+      "stock_sha256": "f5fdf4a7a74213bbd7d2d1b960877c1ddc5f80bf951f35952980a34180dd2c5b"
+    },
+    {
+      "path": "resource/delta_korean.txt",
+      "encoding": "utf-16",
+      "sha256": "3d40a672c4a20680d935086608d0ee66957b701285e30c03fae59d2397b81ce1",
+      "stock_sha256": "e19f222e8fc2aa9b51bf921604628835cacc463b2bcad32a384360852d770bb6"
+    },
+    {
+      "path": "resource/delta_polish.txt",
+      "encoding": "utf-16",
+      "sha256": "bac35751675e2bc47b3702009ba81c350943f5f09755872d5088beedf30f9b99",
+      "stock_sha256": "c66d5468341b1ce2eb500e14a922ff8f4fbb2bce287fcad7ce1276de38a1fe9c"
+    },
+    {
+      "path": "resource/delta_portuguese.txt",
+      "encoding": "utf-16",
+      "sha256": "0915fe4fdf4db56653d2c7cdc3adb413e5bb2851d388a0e59329e0e56d58360a",
+      "stock_sha256": "b539612996d8d370ecf047268aa3abf558a826100fbd2fc346cb62e2bc2b9ed5"
+    },
+    {
+      "path": "resource/delta_russian.txt",
+      "encoding": "utf-16",
+      "sha256": "c4b836282e1b0c8bd8a80ecbb83bea2c2f8515b06c9b8ed4287f09552c978d79",
+      "stock_sha256": "430bbc441b230738f35152908152f792478ceeb2a4e0122eaf19014b4ef46031"
+    },
+    {
+      "path": "resource/delta_spanish.txt",
+      "encoding": "utf-16",
+      "sha256": "32d684306cb02fe7b4a903338d28f12e8c4043b65a093de5c18d9ff3587745de",
+      "stock_sha256": "9f472fd8007e84bd0700e0346879194e07b60d44598d79311f8bbc58ee6a0953"
+    },
+    {
+      "path": "resource/delta_tchinese.txt",
+      "encoding": "utf-16",
+      "sha256": "e03c92998159d1379b11de5eb26a2ddf16b0cf111a479724068db5e1120c381f",
+      "stock_sha256": "9cd5d37912643f9f8d394dd5ced4484072b6ee9effd41c11e9f0a8cc3e97280c"
+    },
+    {
+      "path": "resource/ui/menus/match_settings.menu",
+      "encoding": "utf-8",
+      "sha256": "9be8e7e186b79ef059990caf655418fdd91005ba472eb9230e74e932fad9b3ea",
+      "stock_sha256": "3b7976c0364b5d61aa3021e7b1447bb43bb21f0d0e16bc40458b112bf6c7102e"
+    },
+    {
+      "path": "scripts/vscripts/_consts.nut",
+      "encoding": "utf-8",
+      "sha256": "37e69efe12cfcd684b85b7ca98e223a1509df75732339600dded88231850a80a",
+      "stock_sha256": "34d88ac7b204b0c4ccbe07ed467b1e8f50bb055427107321f878a6966e777c39"
+    },
+    {
+      "path": "scripts/vscripts/_death_package.nut",
+      "encoding": "utf-8",
+      "sha256": "4b12b91d2a70068c2c25cca028add3bf42401e3334443310c8cae85aaf741c1e",
+      "stock_sha256": "5bad0a8831224ba32c6c02e2651e4639ee5e871f315af7680eef73cc9f8afe0c"
+    },
+    {
+      "path": "scripts/vscripts/menu/_lobby.nut",
+      "encoding": "utf-8",
+      "sha256": "61d8723670110e5211f214448975578ff369c9af7ba29154f4aa2860542c22f3",
+      "stock_sha256": "89148aab9d6e9420280fd054481b32db9251d0cc79c34cfcd47cd3c0e57dd106"
+    },
+    {
+      "path": "scripts/vscripts/mp/_base_gametype.nut",
+      "encoding": "utf-8",
+      "sha256": "ef19f15c501e252551bf7d7824de2420d80ddd23a33c76585f074a1c31850e74",
+      "stock_sha256": "564a24a852febbc91a9bd498dda8c75da0f909a7783a8da0fee839b13812aced"
+    },
+    {
+      "path": "scripts/vscripts/mp/_bot_ai.nut",
+      "sha256": "5dd49a672638283ccc904e3fc31047d4f0d2e5d0c2a229894f3193a93f331597",
+      "stock_sha256": null
+    },
+    {
+      "path": "scripts/vscripts/mp/_bot_manager.nut",
+      "sha256": "304c868ce1c9e4fb0df17948c4826063bca43afe6e8d098ad3f818bda91d0e4e",
+      "stock_sha256": null
+    },
+    {
+      "path": "scripts/vscripts/mp/_mapspawn_mp.nut",
+      "encoding": "utf-8",
+      "sha256": "a309da0ee1f9d85c80f28517758e7af9f97713da3b27dc6ac42135a34432efad",
+      "stock_sha256": "9aeb3ca2887d78c5b65fe8f5d80a88b374b540efe1b64eba7273c40efcd7df0a"
+    },
+    {
+      "path": "scripts/vscripts/mp/_simulation.nut",
+      "encoding": "utf-8",
+      "sha256": "38e8a022e603abec7bd8bd150d6bc82673a96aafdf632a6d7fb4a68de6674aea",
+      "stock_sha256": "42fc450f00025eb929982462146e5241611dca2561b311c5e5f33d7c47a96aa6"
+    },
+    {
+      "path": "scripts/vscripts/mp/_titan_health.nut",
+      "encoding": "utf-8",
+      "sha256": "342b97a533ff9d9925c66a4773f80a8529dc7f25e48b58369229f2221d015fd3",
+      "stock_sha256": "738bb4b60cf29eb83b1a758e5d31f1565ec9cd5048e5b8c8eea3b65d31150617"
+    },
+    {
+      "path": "scripts/vscripts/mp/class_titan.nut",
+      "encoding": "utf-8",
+      "sha256": "1d9ee851113588b3445e8519fa9fcfd2befeb4ba6bebfa1dd6991ac99ee758e2",
+      "stock_sha256": "ed90c5f8d5864bbd0a3ae9dd8a01a3b34c9ebcb86afc658f3d3ff13e38f607de"
+    },
+    {
+      "path": "scripts/vscripts/mp/class_wallrun.nut",
+      "encoding": "utf-8",
+      "sha256": "9d0ee823a72b498333dcf8357e7266279044056c5dcbe428f40c5b9f525af92e",
+      "stock_sha256": "f95c1be9b775c29f5496f0b0de66744aa6ed1261a5c0e584b6336c21ca030af3"
+    },
+    {
+      "path": "scripts/vscripts/mp/mp_wargames.nut",
+      "encoding": "utf-8",
+      "sha256": "450503539ab3e5201c1cdbf4c26413be12e0ed18805b60b6e798d2e44db28c52",
+      "stock_sha256": "b7ebfb30e3a955a747795800a2fe8228f4a39f3fdb7da2936f319c767290e325"
+    },
+    {
+      "path": "scripts/vscripts/ui/menu_mode_select.nut",
+      "encoding": "utf-8",
+      "sha256": "e538fa867c6f8f05126857fa819680144fdf19337c1148e59b2817a7373a1e93",
+      "stock_sha256": "6225dd5d892a698f1596c262d74c3aed01c69ddb45f3a637553d9fa5f809268e"
+    }
+  ],
+  "native": [
+    {
+      "path": "bin_delta/EOSSDK-Win64-Shipping.dll",
+      "stock_sha256": "47261706ef55eca3df8ff2fef22937c77c7e1cc8e98f3171a8562c47005d781b",
+      "action": "retain"
+    },
+    {
+      "path": "bin_delta/base64.dll",
+      "stock_sha256": null,
+      "action": "build"
+    },
+    {
+      "path": "bin_delta/brotlicommon.dll",
+      "stock_sha256": null,
+      "action": "build"
+    },
+    {
+      "path": "bin_delta/brotlidec.dll",
+      "stock_sha256": null,
+      "action": "build"
+    },
+    {
+      "path": "bin_delta/brotlienc.dll",
+      "stock_sha256": null,
+      "action": "build"
+    },
+    {
+      "path": "bin_delta/discord_game_sdk.dll",
+      "stock_sha256": "a6b6d7df00a58dc50248d91048578d0fe52182286b487ef89a961fd10467dbd1",
+      "action": "retain"
+    },
+    {
+      "path": "bin_delta/minhook.x64.dll",
+      "stock_sha256": "963a02b3174956bdf50baefe4eb72d04288cabcb618bf61869aab2da29a58742",
+      "action": "build"
+    },
+    {
+      "path": "bin_delta/ogg.dll",
+      "stock_sha256": "f19078f389aab26d137e1a084ecf3a35fe868b787e7ad0bfcb0441be75b06610",
+      "action": "build"
+    },
+    {
+      "path": "bin_delta/opus.dll",
+      "stock_sha256": "1d0e02e6ce53114e5eb10752bb5a0c76af150dd15837ae6a63b7e7b8367cd321",
+      "action": "build"
+    },
+    {
+      "path": "bin_delta/tier0.dll",
+      "stock_sha256": "de7b581846591c73a6d90f9840bbb53a12186a07343049cba93bab9a1dc3b9cf",
+      "action": "build"
+    },
+    {
+      "path": "bin_delta/vorbis.dll",
+      "stock_sha256": "d26a66c36c2025f971fe64ef1c71a54c46a77acd6d6c0450c62ee912c2a74ccc",
+      "action": "build"
+    },
+    {
+      "path": "bin_delta/vorbisenc.dll",
+      "stock_sha256": null,
+      "action": "build"
+    },
+    {
+      "path": "bin_delta/vorbisfile.dll",
+      "stock_sha256": "4c5e726856f91fd80bd356236c8588b4e735daa7a2763a21e6a8e3e39ebe33cb",
+      "action": "build"
+    },
+    {
+      "path": "bin_delta/zstd.dll",
+      "stock_sha256": "a92ec0521fa026dc4cc0a0f5da039ed961cc2f0a2a756eefcd783126e13ee94f",
+      "action": "build"
+    }
+  ],
+  "engine": [
+    {
+      "path": "Dll1.vcxproj",
+      "source_sha256": "d60c8966ef1ddff52a09efc83d53fae726bf88fbcc85efec39753b17aa027473",
+      "prepared_sha256": "a792fb10cfe34f69889cd82051cd60fab191c36c57874f6127f5d034c5a44d71"
+    },
+    {
+      "path": "Dll1.vcxproj.filters",
+      "source_sha256": "85d7f606ccbe2a159bfae4bdbb35e52034f6fa15cc608b9ea1c42d726ff20556",
+      "prepared_sha256": "bdd4460cf0f2a5c2ec5286a18ed83964b302c031aba45a5d15b41a3d8c9ff6c1"
+    },
+    {
+      "path": "engine/core/load.cpp",
+      "source_sha256": "5b594771348e2e98bb77e29f6ec9521a706fad23c4a191c883d83c9a1e066105",
+      "prepared_sha256": "4af1dc3b2c4da6c4b51e5f9e13f048cf684d29409b034828222c673c65a74eea"
+    },
+    {
+      "path": "engine/cvar.cpp",
+      "source_sha256": "0f26942e291267aa9566391588ec2c4101563b9311f5f4804dc8b0be9237ad74",
+      "prepared_sha256": "e609309ab89bc3c59c8bf070e2d1592e84fa3952075b4b15d74bfa67f2492d8e"
+    },
+    {
+      "path": "engine/security_fixes.cpp",
+      "source_sha256": "d3bc08e5f1d476a69607a4a32e778d73ffe9b1e45be6916e1df6af5f97c2c4b5",
+      "prepared_sha256": "cf6ec2f9c844876c2f71adf5d21bcae8b6c18cf67a122ab584ae69e8ae1928ea"
+    },
+    {
+      "path": "server/ai/bot.cpp",
+      "source_sha256": "a579dd9545b4e60329935df9e5cccd1b3561a2b440c40afbd6afb6dd7c8b5a8c",
+      "prepared_sha256": "2d73e36452d942c3273d9ee63e12c611f5faaeebad6b84343fa45f72f8eb03be"
+    },
+    {
+      "path": "server/ai/bot.h",
+      "source_sha256": "53e3d3b678f4997ac586ad88a550545462c349dc45fc1bf862e09805dd051a3e",
+      "prepared_sha256": "8296fe532be0eb26911cb63ddc405d195b4231265609c7c33c14fd83eda8c776"
+    },
+    {
+      "path": "server/ai/bot_control.cpp",
+      "source_sha256": null,
+      "prepared_sha256": "5b2a6fcbdf162fa0709b9764c1bfdb08c91d44fbc0ea4dc0bf2fa89cb8c8b8f0"
+    },
+    {
+      "path": "server/ai/bot_control.h",
+      "source_sha256": null,
+      "prepared_sha256": "9592536c235d47f7b50abe5d32153275432073f8851fadeece6f8a2358fc86f9"
+    },
+    {
+      "path": "server/server_usercmd.cpp",
+      "source_sha256": "25e387b36b0adf4afdda0e3018b7bd45b188218ccc5817ad67244c8c4a42aa4c",
+      "prepared_sha256": "b9f9d5572ed13ef75cc9d9496603248806a2e96b0f5b1bf8d59d19ff278daeef"
+    },
+    {
+      "path": "shared/squirrel.cpp",
+      "source_sha256": "ac6f199237747f2b9cb2a77897d2e7e63778419e0e7be37b846f1eab318ced24",
+      "prepared_sha256": "6bfe448518ceb187cc79818f3ca3b4fa6791815b0be9517248271f74c8970b68"
+    }
+  ],
+  "eos": [
+    {
+      "path": "SDK/Lib/EOSSDK-Win64-Shipping.lib",
+      "sha256": "19bb16964d8da5fbab80a683104ab7d038535844279fb9da2a29672d847effa9"
+    },
+    {
+      "path": "SDK/Bin/EOSSDK-Win64-Shipping.dll",
+      "sha256": "47261706ef55eca3df8ff2fef22937c77c7e1cc8e98f3171a8562c47005d781b"
+    }
+  ]
+}
