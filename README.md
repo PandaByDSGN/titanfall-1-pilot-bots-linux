@@ -1,6 +1,6 @@
 # How I got Titanfall 1 pilot bots running on Linux: experimental setup notes
 
-These notes cover the setup behind my Titanfall 1 pilot-bot video, which showed friendly and enemy pilot teams. The smoke test below uses one bot on purpose so it's easy to see whether it spawns and fights.
+These notes cover the setup behind my Titanfall 1 pilot-bot video. I tested friendly and enemy pilot teams in private Attrition matches across multiple maps. The video shows that larger-team setup. The smoke test below uses one bot on purpose so it's easy to see whether it spawns and fights.
 
 **Status:** The Windows x64 engine rebuilt successfully from pinned sources plus a reviewed local adaptation. That new build passed a private in-game smoke test on Linux. Native Windows gameplay and a public-files-only rebuild have not been verified. Stock R1Delta alone won't give you the setup shown in the video.
 
@@ -37,13 +37,13 @@ This describes the route that passed, not a public one-command installer. The pr
 4. Apply the settings, start the match, and finish selecting your loadout.
 5. Check for the second pilot slot on the scoreboard, then confirm the bot spawns and fights.
 
-The patched build passed this small test in two isolated Linux installs, including a 90-second run with the freshly rebuilt engine. That run loaded one pilot bot, the bot moved and fought, and it registered two pilot kills. This checks one map and mode with one bot, not the larger friendly and enemy teams shown in the video.
+The patched build passed this small test in two isolated Linux installs, including a 90-second run with the freshly rebuilt engine. That run loaded one pilot bot, the bot moved and fought, and it registered two pilot kills. This fresh-install check covered one bot on Angel City. The larger friendly and enemy teams were verified separately in my private Attrition matches across multiple maps.
 
 ## What still needs verification
 
 - Play the private-match test on native Windows.
 - Rebuild and install from a shareable recipe using only public dependencies and an independently obtained owned game install.
-- Verify a larger private match with friendly and enemy pilot teams, and other maps and modes.
+- Test friendly and enemy pilot teams in modes beyond Attrition.
 - Review what patches can be shared and how to preserve required licenses and notices. No game files, modified binaries, third-party runtime DLLs, or Wine prefixes are included here.
 
 Thanks to the R1Delta contributors and **lcvb1997** for the original pilot-bot work.
